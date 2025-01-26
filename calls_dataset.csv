@@ -1,0 +1,101 @@
+id,text_snippet,labels
+1,We need a budget before making a decision.,Objection
+2,"Our competitors, like CompetitorY, offer a discount that we can't ignore.","Pricing Discussion, Objection, Competition"
+3,"Our competitors, like CompetitorZ, offer a pricing model that we can't ignore.","Security, Competition, Objection"
+4,"Our competitors, like CompetitorY, offer a discount that we can't ignore.","Security, Objection, Competition"
+5,We need a renewal cost before making a decision.,"Competition, Objection"
+6,Finance clients are asking about data pipeline. How does your solution address this?,Competition
+7,Can you provide regional pricing for North America?,"Security, Objection, Competition"
+8,Can you provide regional pricing for Australia?,"Security, Objection, Pricing Discussion"
+9,We need a pricing model before making a decision.,Objection
+10,The compliance team is worried about data handling. Are you SOC2 certified?,Objection
+11,"Our competitors, like CompetitorY, offer a pricing model that we can't ignore.","Objection, Competition"
+12,"Our competitors, like CompetitorY, offer a renewal cost that we can't ignore.",Pricing Discussion
+13,We need a budget before making a decision.,Pricing Discussion
+14,"Our team loves the analytics, but CompetitorZ offers better pricing.",Competition
+15,We need a pricing model before making a decision.,Pricing Discussion
+16,The compliance team is worried about data handling. Are you SOC2 certified?,Security
+17,The compliance team is worried about data handling. Are you SOC2 certified?,"Pricing Discussion, Competition, Security"
+18,Technology clients are asking about analytics. How does your solution address this?,"Pricing Discussion, Objection, Competition"
+19,How does your data pipeline compare to CompetitorY?,"Security, Competition, Objection"
+20,We need a budget before making a decision.,Objection
+21,How does your analytics compare to CompetitorY?,"Security, Pricing Discussion, Competition"
+22,"Our competitors, like CompetitorY, offer a budget that we can't ignore.","Objection, Security, Competition"
+23,Education clients are asking about data pipeline. How does your solution address this?,"Security, Pricing Discussion, Objection"
+24,"Our team loves the data pipeline, but CompetitorY offers better pricing.","Competition, Pricing Discussion"
+25,"Our team loves the data pipeline, but CompetitorX offers better pricing.","Competition, Pricing Discussion"
+26,We need a budget before making a decision.,"Pricing Discussion, Objection, Competition"
+27,We need a budget before making a decision.,Pricing Discussion
+28,We need a pricing model before making a decision.,"Security, Objection"
+29,Can you provide regional pricing for North America?,Objection
+30,"Our team loves the analytics, but CompetitorZ offers better pricing.",Security
+31,"Our team loves the AI engine, but CompetitorX offers better pricing.","Pricing Discussion, Competition, Security"
+32,How does your analytics compare to CompetitorY?,Objection
+33,The compliance team is worried about data handling. Are you SOC2 certified?,Security
+34,How does your AI engine compare to CompetitorZ?,"Pricing Discussion, Security"
+35,How does your analytics compare to CompetitorX?,"Competition, Objection, Security"
+36,How does your data pipeline compare to CompetitorY?,Pricing Discussion
+37,The compliance team is worried about data handling. Are you SOC2 certified?,Security
+38,Retail clients are asking about analytics. How does your solution address this?,Pricing Discussion
+39,"Our team loves the AI engine, but CompetitorX offers better pricing.","Objection, Pricing Discussion"
+40,Technology clients are asking about data pipeline. How does your solution address this?,"Pricing Discussion, Objection"
+41,"Our competitors, like CompetitorY, offer a discount that we can't ignore.","Objection, Security, Competition"
+42,How does your analytics compare to CompetitorX?,"Objection, Security, Competition"
+43,Education clients are asking about AI engine. How does your solution address this?,"Competition, Objection, Security"
+44,The compliance team is worried about data handling. Are you SOC2 certified?,Objection
+45,The compliance team is worried about data handling. Are you SOC2 certified?,"Objection, Competition"
+46,Education clients are asking about AI engine. How does your solution address this?,Security
+47,How does your data pipeline compare to CompetitorX?,"Objection, Security, Pricing Discussion"
+48,How does your analytics compare to CompetitorX?,Pricing Discussion
+49,We need a budget before making a decision.,"Competition, Pricing Discussion"
+50,How does your data pipeline compare to CompetitorY?,"Pricing Discussion, Competition"
+51,We need a discount before making a decision.,Competition
+52,Technology clients are asking about data pipeline. How does your solution address this?,Competition
+53,"Our competitors, like CompetitorZ, offer a renewal cost that we can't ignore.","Objection, Pricing Discussion"
+54,Can you provide regional pricing for Asia?,Pricing Discussion
+55,Can you provide regional pricing for South America?,"Objection, Security, Pricing Discussion"
+56,"Our team loves the analytics, but CompetitorX offers better pricing.","Pricing Discussion, Competition"
+57,"Our team loves the data pipeline, but CompetitorY offers better pricing.",Objection
+58,"Our team loves the AI engine, but CompetitorX offers better pricing.","Security, Competition, Objection"
+59,"Our competitors, like CompetitorX, offer a pricing model that we can't ignore.","Pricing Discussion, Competition, Security"
+60,"Our competitors, like CompetitorZ, offer a budget that we can't ignore.","Objection, Pricing Discussion, Competition"
+61,"Our team loves the AI engine, but CompetitorZ offers better pricing.","Objection, Security"
+62,Retail clients are asking about data pipeline. How does your solution address this?,Security
+63,The compliance team is worried about data handling. Are you SOC2 certified?,"Objection, Security"
+64,"Our competitors, like CompetitorX, offer a pricing model that we can't ignore.","Objection, Security, Competition"
+65,Retail clients are asking about AI engine. How does your solution address this?,Security
+66,Education clients are asking about analytics. How does your solution address this?,"Objection, Competition, Security"
+67,"Our team loves the analytics, but CompetitorY offers better pricing.",Objection
+68,The compliance team is worried about data handling. Are you SOC2 certified?,Security
+69,"Our team loves the analytics, but CompetitorZ offers better pricing.","Pricing Discussion, Competition, Security"
+70,We need a budget before making a decision.,Objection
+71,The compliance team is worried about data handling. Are you SOC2 certified?,Objection
+72,The compliance team is worried about data handling. Are you SOC2 certified?,"Security, Competition, Pricing Discussion"
+73,"Our competitors, like CompetitorZ, offer a pricing model that we can't ignore.","Pricing Discussion, Competition, Security"
+74,Finance clients are asking about analytics. How does your solution address this?,"Objection, Competition"
+75,We need a renewal cost before making a decision.,"Objection, Competition"
+76,We need a budget before making a decision.,"Objection, Security, Pricing Discussion"
+77,How does your analytics compare to CompetitorX?,Pricing Discussion
+78,"Our team loves the analytics, but CompetitorY offers better pricing.",Competition
+79,How does your analytics compare to CompetitorZ?,"Objection, Security"
+80,We need a renewal cost before making a decision.,"Security, Competition, Objection"
+81,Finance clients are asking about analytics. How does your solution address this?,"Competition, Pricing Discussion"
+82,"Our team loves the AI engine, but CompetitorY offers better pricing.","Pricing Discussion, Competition"
+83,The compliance team is worried about data handling. Are you SOC2 certified?,"Pricing Discussion, Security, Competition"
+84,Education clients are asking about analytics. How does your solution address this?,"Objection, Security, Pricing Discussion"
+85,The compliance team is worried about data handling. Are you SOC2 certified?,Competition
+86,Healthcare clients are asking about AI engine. How does your solution address this?,"Security, Pricing Discussion, Objection"
+87,The compliance team is worried about data handling. Are you SOC2 certified?,"Objection, Competition"
+88,"Our team loves the analytics, but CompetitorY offers better pricing.","Pricing Discussion, Competition, Security"
+89,Can you provide regional pricing for Asia?,"Pricing Discussion, Security, Competition"
+90,"Our team loves the data pipeline, but CompetitorX offers better pricing.",Objection
+91,"Our team loves the AI engine, but CompetitorY offers better pricing.",Competition
+92,We need a pricing model before making a decision.,"Security, Objection, Competition"
+93,"Our team loves the AI engine, but CompetitorY offers better pricing.","Security, Competition"
+94,How does your data pipeline compare to CompetitorZ?,"Competition, Pricing Discussion, Objection"
+95,The compliance team is worried about data handling. Are you SOC2 certified?,"Pricing Discussion, Objection"
+96,The compliance team is worried about data handling. Are you SOC2 certified?,Security
+97,"Our team loves the data pipeline, but CompetitorZ offers better pricing.","Security, Competition"
+98,How does your data pipeline compare to CompetitorY?,"Pricing Discussion, Objection, Competition"
+99,"Our competitors, like CompetitorX, offer a pricing model that we can't ignore.","Competition, Security"
+100,Finance clients are asking about AI engine. How does your solution address this?,"Competition, Objection"

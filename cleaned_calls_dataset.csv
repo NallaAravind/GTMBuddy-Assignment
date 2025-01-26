@@ -1,0 +1,101 @@
+id,text_snippet,labels
+1,need budget making decision.,['Objection']
+2,"competitors, like competitory, offer discount can't ignore.","['Pricing Discussion', 'Objection', 'Competition']"
+3,"competitors, like competitorz, offer pricing model can't ignore.","['Security', 'Competition', 'Objection']"
+4,"competitors, like competitory, offer discount can't ignore.","['Security', 'Objection', 'Competition']"
+5,need renewal cost making decision.,"['Competition', 'Objection']"
+6,finance client asking data pipeline. solution address this?,['Competition']
+7,provide regional pricing north america?,"['Security', 'Objection', 'Competition']"
+8,provide regional pricing australia?,"['Security', 'Objection', 'Pricing Discussion']"
+9,need pricing model making decision.,['Objection']
+10,compliance team worried data handling. soc2 certified?,['Objection']
+11,"competitors, like competitory, offer pricing model can't ignore.","['Objection', 'Competition']"
+12,"competitors, like competitory, offer renewal cost can't ignore.",['Pricing Discussion']
+13,need budget making decision.,['Pricing Discussion']
+14,"team love analytics, competitorz offer better pricing.",['Competition']
+15,need pricing model making decision.,['Pricing Discussion']
+16,compliance team worried data handling. soc2 certified?,['Security']
+17,compliance team worried data handling. soc2 certified?,"['Pricing Discussion', 'Competition', 'Security']"
+18,technology client asking analytics. solution address this?,"['Pricing Discussion', 'Objection', 'Competition']"
+19,data pipeline compare competitory?,"['Security', 'Competition', 'Objection']"
+20,need budget making decision.,['Objection']
+21,analytics compare competitory?,"['Security', 'Pricing Discussion', 'Competition']"
+22,"competitors, like competitory, offer budget can't ignore.","['Objection', 'Security', 'Competition']"
+23,education client asking data pipeline. solution address this?,"['Security', 'Pricing Discussion', 'Objection']"
+24,"team love data pipeline, competitory offer better pricing.","['Competition', 'Pricing Discussion']"
+25,"team love data pipeline, competitorx offer better pricing.","['Competition', 'Pricing Discussion']"
+26,need budget making decision.,"['Pricing Discussion', 'Objection', 'Competition']"
+27,need budget making decision.,['Pricing Discussion']
+28,need pricing model making decision.,"['Security', 'Objection']"
+29,provide regional pricing north america?,['Objection']
+30,"team love analytics, competitorz offer better pricing.",['Security']
+31,"team love ai engine, competitorx offer better pricing.","['Pricing Discussion', 'Competition', 'Security']"
+32,analytics compare competitory?,['Objection']
+33,compliance team worried data handling. soc2 certified?,['Security']
+34,ai engine compare competitorz?,"['Pricing Discussion', 'Security']"
+35,analytics compare competitorx?,"['Competition', 'Objection', 'Security']"
+36,data pipeline compare competitory?,['Pricing Discussion']
+37,compliance team worried data handling. soc2 certified?,['Security']
+38,retail client asking analytics. solution address this?,['Pricing Discussion']
+39,"team love ai engine, competitorx offer better pricing.","['Objection', 'Pricing Discussion']"
+40,technology client asking data pipeline. solution address this?,"['Pricing Discussion', 'Objection']"
+41,"competitors, like competitory, offer discount can't ignore.","['Objection', 'Security', 'Competition']"
+42,analytics compare competitorx?,"['Objection', 'Security', 'Competition']"
+43,education client asking ai engine. solution address this?,"['Competition', 'Objection', 'Security']"
+44,compliance team worried data handling. soc2 certified?,['Objection']
+45,compliance team worried data handling. soc2 certified?,"['Objection', 'Competition']"
+46,education client asking ai engine. solution address this?,['Security']
+47,data pipeline compare competitorx?,"['Objection', 'Security', 'Pricing Discussion']"
+48,analytics compare competitorx?,['Pricing Discussion']
+49,need budget making decision.,"['Competition', 'Pricing Discussion']"
+50,data pipeline compare competitory?,"['Pricing Discussion', 'Competition']"
+51,need discount making decision.,['Competition']
+52,technology client asking data pipeline. solution address this?,['Competition']
+53,"competitors, like competitorz, offer renewal cost can't ignore.","['Objection', 'Pricing Discussion']"
+54,provide regional pricing asia?,['Pricing Discussion']
+55,provide regional pricing south america?,"['Objection', 'Security', 'Pricing Discussion']"
+56,"team love analytics, competitorx offer better pricing.","['Pricing Discussion', 'Competition']"
+57,"team love data pipeline, competitory offer better pricing.",['Objection']
+58,"team love ai engine, competitorx offer better pricing.","['Security', 'Competition', 'Objection']"
+59,"competitors, like competitorx, offer pricing model can't ignore.","['Pricing Discussion', 'Competition', 'Security']"
+60,"competitors, like competitorz, offer budget can't ignore.","['Objection', 'Pricing Discussion', 'Competition']"
+61,"team love ai engine, competitorz offer better pricing.","['Objection', 'Security']"
+62,retail client asking data pipeline. solution address this?,['Security']
+63,compliance team worried data handling. soc2 certified?,"['Objection', 'Security']"
+64,"competitors, like competitorx, offer pricing model can't ignore.","['Objection', 'Security', 'Competition']"
+65,retail client asking ai engine. solution address this?,['Security']
+66,education client asking analytics. solution address this?,"['Objection', 'Competition', 'Security']"
+67,"team love analytics, competitory offer better pricing.",['Objection']
+68,compliance team worried data handling. soc2 certified?,['Security']
+69,"team love analytics, competitorz offer better pricing.","['Pricing Discussion', 'Competition', 'Security']"
+70,need budget making decision.,['Objection']
+71,compliance team worried data handling. soc2 certified?,['Objection']
+72,compliance team worried data handling. soc2 certified?,"['Security', 'Competition', 'Pricing Discussion']"
+73,"competitors, like competitorz, offer pricing model can't ignore.","['Pricing Discussion', 'Competition', 'Security']"
+74,finance client asking analytics. solution address this?,"['Objection', 'Competition']"
+75,need renewal cost making decision.,"['Objection', 'Competition']"
+76,need budget making decision.,"['Objection', 'Security', 'Pricing Discussion']"
+77,analytics compare competitorx?,['Pricing Discussion']
+78,"team love analytics, competitory offer better pricing.",['Competition']
+79,analytics compare competitorz?,"['Objection', 'Security']"
+80,need renewal cost making decision.,"['Security', 'Competition', 'Objection']"
+81,finance client asking analytics. solution address this?,"['Competition', 'Pricing Discussion']"
+82,"team love ai engine, competitory offer better pricing.","['Pricing Discussion', 'Competition']"
+83,compliance team worried data handling. soc2 certified?,"['Pricing Discussion', 'Security', 'Competition']"
+84,education client asking analytics. solution address this?,"['Objection', 'Security', 'Pricing Discussion']"
+85,compliance team worried data handling. soc2 certified?,['Competition']
+86,healthcare client asking ai engine. solution address this?,"['Security', 'Pricing Discussion', 'Objection']"
+87,compliance team worried data handling. soc2 certified?,"['Objection', 'Competition']"
+88,"team love analytics, competitory offer better pricing.","['Pricing Discussion', 'Competition', 'Security']"
+89,provide regional pricing asia?,"['Pricing Discussion', 'Security', 'Competition']"
+90,"team love data pipeline, competitorx offer better pricing.",['Objection']
+91,"team love ai engine, competitory offer better pricing.",['Competition']
+92,need pricing model making decision.,"['Security', 'Objection', 'Competition']"
+93,"team love ai engine, competitory offer better pricing.","['Security', 'Competition']"
+94,data pipeline compare competitorz?,"['Competition', 'Pricing Discussion', 'Objection']"
+95,compliance team worried data handling. soc2 certified?,"['Pricing Discussion', 'Objection']"
+96,compliance team worried data handling. soc2 certified?,['Security']
+97,"team love data pipeline, competitorz offer better pricing.","['Security', 'Competition']"
+98,data pipeline compare competitory?,"['Pricing Discussion', 'Objection', 'Competition']"
+99,"competitors, like competitorx, offer pricing model can't ignore.","['Competition', 'Security']"
+100,finance client asking ai engine. solution address this?,"['Competition', 'Objection']"

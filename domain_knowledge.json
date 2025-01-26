@@ -1,0 +1,32 @@
+{
+    "competitors": [
+        "CompetitorX",
+        "CompetitorY",
+        "CompetitorZ"
+    ],
+    "features": [
+        "analytics",
+        "AI engine",
+        "data pipeline"
+    ],
+    "pricing_keywords": [
+        "discount",
+        "renewal cost",
+        "budget",
+        "pricing model"
+    ],
+    "industries": [
+        "Finance",
+        "Healthcare",
+        "Retail",
+        "Education",
+        "Technology"
+    ],
+    "regions": [
+        "North America",
+        "Europe",
+        "Asia",
+        "Australia",
+        "South America"
+    ]
+}
